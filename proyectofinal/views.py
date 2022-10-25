@@ -1,4 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
-
+def holaWui3():
+    print("Hola Wui3")
